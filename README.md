@@ -30,7 +30,7 @@ To get started with ReadmeGeneration, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://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@github.com/Anurich/ReadmeGeneration.git
+   git clone https://Anurich@github.com/Anurich/ReadmeGeneration.git
    cd ReadmeGeneration
    ```
 
